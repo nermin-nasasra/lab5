@@ -1,27 +1,65 @@
+//var num;
+//var enter;
+//var sum = function(){
 
-function helloweveryone (){
+//while(num == null )
+//{
+//var enter = prompt("enter any number");
+
+//}
+//var sum =0;
+//for(var i=0; i<8 ; i++){
+ //sum =sum +i ;
+
+//}
+//return sum;
+//}
+
+//document.write('<p>'+sum+'</p>');
 
 
-// input 
-var age = prompt("enter your age");
-var comp ;
+for(var i=0; i<8 ; i++){
+while(a == null && b == null )
 
-//processing
+var a = prompt("Enter first number");
+var b = prompt("Enter second number to calculat");
 
-if (age>10 && age<=18)
-{
-    comp='do well for a beautiful future';
+var x=parseInt(a);
+var y=parseInt(b);
+
+
+
 }
-else if(age>18){
+alert(x+y);
 
-    comp='keep imporve yourself ';
+
+
+
+
+//var sum = 0;
+//var number = 0;
+
+//while(a == null && b == null ){
+
+   // var a = prompt("Enter first number");
+   // var b = prompt("Enter second number");
     
 
-}
-return comp;
-//output
 
-}
-var comp =helloweveryone();
-document.write('<h1>'+comp+'/<h1>');
+//}
+ 
 
+   // for(var i=0; i<9 ; i++){
+       // var x=parseInt(a);
+        //var y=parseInt(b);
+    
+        //sum =x+y;
+
+
+        
+  
+  //  }
+  
+
+//alert(sum);  
+    
