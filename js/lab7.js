@@ -18,6 +18,8 @@
 //document.write('<p>'+sum+'</p>');
 
 
+
+
 for(var i=0; i<8 ; i++){
 while(a == null && b == null )
 
@@ -29,10 +31,10 @@ var y=parseInt(b);
 
 
 
-}
+
 alert(x+y);
 
-
+}
 
 
 
@@ -43,23 +45,14 @@ alert(x+y);
 
    // var a = prompt("Enter first number");
    // var b = prompt("Enter second number");
-    
-
-
 //}
  
-
    // for(var i=0; i<9 ; i++){
        // var x=parseInt(a);
         //var y=parseInt(b);
     
         //sum =x+y;
-
-
-        
-  
   //  }
   
-
 //alert(sum);  
     
