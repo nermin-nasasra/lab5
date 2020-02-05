@@ -1,11 +1,11 @@
 
-
-
-
  var person = prompt("Please enter your name");
+ var how = prompt("How are you today?");
+ var wel =confirm("welcome");
 
- var decision= confirm("How are you today?");
+//document.write("good");
 
- var decision= confirm("welcome");
+//document.write("i hope you will be better");
+
 
 
