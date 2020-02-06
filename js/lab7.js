@@ -25,7 +25,7 @@ while(a == null && b == null )
 
 var a = prompt("Enter first number");
 var b = prompt("Enter second number to calculat");
-
+//while(a == null && b == null )
 var x=parseInt(a);
 var y=parseInt(b);
 
@@ -35,6 +35,18 @@ var y=parseInt(b);
 alert(x+y);
 
 }
+
+// function show ()
+// {
+//     var num =prompt("how many iteams you like to do?");
+//     return num;
+// }
+var count=prompt("how many iteams you like to do?");
+console.log(count);
+for(var i=0;i<count;i++){
+document.write('<h2>iteams'+i+'</h2>');
+}
+
 
 
 
